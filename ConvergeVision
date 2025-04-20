@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTM3U vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="COUNTRY CHANNELS: PH, MY, JP, SG"
- 
+content-type="playlist"
  
 #EXTINF:-1 tvg-id="DWIZ News TV" group-title="Converge Vision",DWIZ News TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

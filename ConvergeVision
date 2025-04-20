@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="Testing lang muna"
+#EXTM3U vod_library="https://raw.githubusercontent.com/staedtlertv/live/refs/heads/main/Movies" billed-msg="Testing lang muna"
 
  
 #EXTINF:-1 tvg-id="DWIZ News TV" group-title="Converge Vision",DWIZ News TV

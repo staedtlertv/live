@@ -1,4 +1,4 @@
-#EXTM3U tvg-url-tvg="" x-tvg-url=""
+#EXTM3U tvg-url-tvg="" x-tvg-url="https://tvpass.org/epg.xml"
 
 #EXTM3U vod_library="https://raw.githubusercontent.com/staedtlertv/live/refs/heads/main/Movies" billed-msg="OTT Navigator by PHStaedtler"
 

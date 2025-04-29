@@ -908,7 +908,7 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/MovieMaxEast/index.m3u8
+https://v12.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cmt.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png",US CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
@@ -1007,12 +1007,16 @@ http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v4.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",STAR TV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.ca" group-title="USA TV" tvg-logo="",UK HBO POP
 http://190.102.246.93:9005/play/a05b
 #EXTINF:-1 tvg-id="HBOextreme.ca" group-title="USA TV" tvg-logo="",UK HBO Extreme
 http://190.102.246.93:9005/play/a010
 
+#EXTINF:-1 group-title="USA TV",HBO PLUS
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",US HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
@@ -1146,7 +1150,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="starzedge.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true",US Starz Edge
 http://23.237.104.106:8080/USA_STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-id="starzencore.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true",US Starz Encore
-http://xxip9.top:8080/live/4QEdPu/127295/16141.m3u8
+http://212.102.60.231:80/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 tvg-id="starzencoreaction.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true",US Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="starzencorewesterns.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true",US Starz Encore Westerns
@@ -1357,6 +1361,144 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1  group-title="23 USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
+
+
+#EXTINF:-1 group-title="CA USA",BEIN_SPORTS HD
+http://212.102.60.231:80/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="CA USA",ESPN.us
+http://212.102.60.231:80/ESPN/index.m3u8
+#EXTINF:-1 group-title="CA USA",ESPN2.us HD
+http://212.102.60.231:80/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="CA USA",ESPNEWS.us HD
+http://212.102.60.231:80/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="CA USA",ESPNU.us
+http://212.102.60.231:80/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="CA USA",TSN 1 🇨🇦
+http://212.102.60.231:80/TSN_1/index.m3u8
+#EXTINF:-1 group-title="CA USA",TSN 2 🇨🇦
+http://212.102.60.231:80/TSN_2/index.m3u8
+#EXTINF:-1 group-title="CA USA",TSN 3 🇨🇦
+http://212.102.60.231:80/TSN_3/index.m3u8
+#EXTINF:-1 group-title="CA USA",TSN 4 🇨🇦
+http://212.102.60.231:80/TSN_4/index.m3u8
+#EXTINF:-1 group-title="CA USA",TSN 5 🇨🇦
+http://212.102.60.231:80/TSN_5/index.m3u8
+#EXTINF:-1 group-title="CA USA",CBSSports Network.us HD
+http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",CSPAN
+http://212.102.60.231:80/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="CA USA",WWE.us HD
+http://212.102.60.231:80/WWE/index.m3u8
+#EXTINF:-1 group-title="CA USA",Cooking Channel.us
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="CA USA",BET.us
+http://212.102.60.231:80/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title="CA USA",BETHer.us
+http://212.102.60.231:80/BET_HER/index.m3u8
+#EXTINF:-1 group-title="CA USA",BETSOUL.us
+http://212.102.60.231:80/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="CA USA",BigTen.us
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",ACCNetwork.us
+http://212.102.60.231:80/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",MLBNetwork.us
+http://212.102.60.231:80/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",MOTORTREND.us
+http://212.102.60.231:80/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="CA USA",MSNBC.us
+http://212.102.60.231:80/MSNBC/index.m3u8
+#EXTINF:-1 group-title="CA USA",NBAtv.us HD
+http://212.102.60.231:80/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="CA USA",NBCWMAQ.us
+http://212.102.60.231:80/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="CA USA",GolfChannel.us
+http://212.102.60.231:80/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="CA USA",NFLNetwork.us
+http://212.102.60.231:80/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",NHLNetwork.us
+http://212.102.60.231:80/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",SECNetwork.us HD
+http://212.102.60.231:80/SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",TennisChannel.us
+http://212.102.60.231:80/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="CA USA",YESNetwork.us
+http://212.102.60.231:80/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CA USA",HALLMARK_DRAMA
+http://212.102.60.231:80/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="CA USA",HBO
+http://212.102.60.231:80/HBO/index.m3u8
+#EXTINF:-1 group-title="CA USA",HBO 2 HD
+http://212.102.60.231:80/HBO_2/index.m3u8
+#EXTINF:-1 group-title="CA USA",HBO Comedy
+http://212.102.60.231:80/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="CA USA",HBO Family
+http://212.102.60.231:80/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="CA USA",HBO Zone
+http://212.102.60.231:80/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="CA USA",FX
+http://212.102.60.231:80/FX/index.m3u8
+#EXTINF:-1 group-title="CA USA",Starz East HD
+http://212.102.60.231:80/STARZ/index.m3u8
+#EXTINF:-1 group-title="CA USA",Starz Comedy HD
+http://212.102.60.231:80/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="CA USA",Starz Edge HD
+http://212.102.60.231:80/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="CA USA",Starz Encore HD
+http://212.102.60.231:80/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="CA USA",Starz Encore Actıon HD
+http://212.102.60.231:80/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 group-title="CA USA",Starz Encore Westernsore_Westerns HD
+http://212.102.60.231:80/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 group-title="CA USA",American Heroes Channel
+http://212.102.60.231:80/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="CA USA",BRAVO HD
+http://212.102.60.231:80/BRAVO/index.m3u8
+#EXTINF:-1 group-title="CA USA",CINEMAX EAST
+http://212.102.60.231:80/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="CA USA",DISNEY CHANNEL
+http://212.102.60.231:80/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="CA USA",DISNEY JR HD
+http://212.102.60.231:80/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="CA USA",DISNEYXD HD
+http://212.102.60.231:80/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="CA USA",FREE FORM HD
+http://212.102.60.231:80/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="CA USA",HGTV HD
+http://212.102.60.231:80/HGTV/index.m3u8
+#EXTINF:-1 group-title="CA USA",INVESTIGATION DISCOVERY HD
+http://212.102.60.231:80/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="CA USA",MTV HD
+http://212.102.60.231:80/MTV/index.m3u8
+#EXTINF:-1 group-title="CA USA",MTV 2
+http://212.102.60.231:80/MTV_2/index.m3u8
+#EXTINF:-1 group-title="CA USA",NICK JR HD
+http://212.102.60.231:80/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="CA USA",NICK MUSIC HD
+http://212.102.60.231:80/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="CA USA",NICKELODEON HD
+http://212.102.60.231:80/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="CA USA",NICKTOONS HD
+http://212.102.60.231:80/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="CA USA",SHOWTIME
+http://212.102.60.231:80/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="CA USA",SYFY HD
+http://212.102.60.231:80/SYFY/index.m3u8
+#EXTINF:-1 group-title="CA USA",OXYGEN HD
+http://212.102.60.231:80/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="CA USA",TLC HD
+http://212.102.60.231:80/TLC/index.m3u8
+#EXTINF:-1 group-title="CA USA",EPIX HD
+http://212.102.60.231:80/EPIX/index.m3u8
+#EXTINF:-1 group-title="CA USA",VH1 HD
+http://212.102.60.231:80/VH1/index.m3u8
+#EXTINF:-1 group-title="CA USA",MTV00S HD
+http://212.102.60.231:80/MTV00S/index.m3u8
+#EXTINF:-1 group-title="CA USA",MTVHits
+http://212.102.60.231:80/MTVHits/index.m3u8
+#EXTINF:-1 group-title="CA USA",FXX HD
+http://212.102.60.231:80/FXX/index.m3u8
+#EXTINF:-1 group-title="CA USA",WeTV
+http://212.102.60.231:80/WE_TV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="TVpass",A&E

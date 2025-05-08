@@ -1042,7 +1042,7 @@ http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v4.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",STAR TV
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" group-title="USA TV",STAR TV
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.ca" group-title="USA TV" tvg-logo="",UK HBO POP

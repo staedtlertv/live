@@ -891,7 +891,7 @@ http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="moremax.us" group-title="USA TV" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",US Cinemax MoreMAX
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="outermax.us" group-title="USA TV",OuterMAX
 http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 

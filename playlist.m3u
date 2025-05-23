@@ -1021,7 +1021,7 @@ http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="lafftv.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",US Laff TV
 http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png",US Lifetime
-https://v1.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="lifetimemovies.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png",US Lifetime Movies
 http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="logo.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png",US Logo
@@ -1049,7 +1049,7 @@ http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="natgeowild.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png",US National Geographic Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="a3cine.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",US NBA TV
-https://v4.thetvapp.to/hls/NBATV/index.m3u8
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="WNBC.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",US NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="golfchannel.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png",US NBC Golf
@@ -1087,7 +1087,7 @@ http://fl3.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="paramountpluswithshowtime.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",US Showtime East
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="showtime2.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",US Showtime2
-https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="showtimeextreme.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true",US Showtime Extreme
 http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="showtimenext.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true",US Showtime Next
@@ -1131,7 +1131,7 @@ http://fl3.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="starzencorewesterns.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true",US Starz Encore Westerns
 http://23.237.104.106:8080/USA_STARZ_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="USA TV",USA Network
-https://v1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
+https://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="sundancetv.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png",US SundanceTV
 http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="syfy.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",US SYFY

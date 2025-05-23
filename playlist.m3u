@@ -1018,8 +1018,6 @@ http://fl3.moveonjoy.com/INSP/index.m3u8
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 tvg-id="iontelevision.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true",US ION
 http://fl3.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 tvg-id="lafftv.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",US Laff TV
-http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png",US Lifetime
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="lifetimemovies.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png",US Lifetime Movies
@@ -1124,8 +1122,10 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="starzedge.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true",US Starz Edge
 http://23.237.104.106:8080/USA_STARZ_EDGE/index.m3u8
+
 #EXTINF:-1 tvg-id="starzencore.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true",US Starz Encore
-http://212.102.60.231:80/STARZ_ENCORE/index.m3u8
+http://xxip9.top:8080/live/klester723@gmail.com/VunNxRGmKT/16263.m3u8
+
 #EXTINF:-1 tvg-id="starzencoreaction.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true",US Starz Encore Action
 http://fl3.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="starzencorewesterns.us" group-title="USA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true",US Starz Encore Westerns

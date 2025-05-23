@@ -1016,7 +1016,7 @@ https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hbofamily.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",US HBO Family
 https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hbozone.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",US HBO Zone (East)
-https://v1.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="hgtv.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",US HGTV
 http://fl3.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="hln.us" group-title="USA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png",US HLN

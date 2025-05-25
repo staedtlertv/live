@@ -1,8 +1,8 @@
 [ 
 {"name": "Don't Die: The Man Who Wants to Live Forever (2025)", 
 "category": "2025 MOVIES", 
-"info": {"poster": "https://d32qys9a6wm9no.cloudfront.net/images/movies/backdrop/4b/61dabcf396f57f569de6160ed01ab17f_1280x720.jpg?t=1734648304", 
-"bg": "https://cdn.moviefone.com/image-assets/1401905/2M0CF7UsbpQ45xGuVRhExAhUWBj.jpg?d=360x540&q=50",
+"info": {"poster": "https://cdn.moviefone.com/image-assets/1401905/2M0CF7UsbpQ45xGuVRhExAhUWBj.jpg?d=360x540&q=50", 
+"bg": "https://d32qys9a6wm9no.cloudfront.net/images/movies/backdrop/4b/61dabcf396f57f569de6160ed01ab17f_1280x720.jpg?t=1734648304",
 "plot": "Explores a man's quest for immortality and the lengths he goes to defy aging.", 
 "backdrop": "", 
 "director": [""], 
@@ -11,7 +11,6 @@
 "video": "http://cord-cutter.net:8080/movie/klester723@gmail.com/VunNxRGmKT/226214.mp4", 
 "drm": "clearkey", 
 "drmkey": ""},
-
 {"name": "Oprah And The Color Purple Journey", 
 "category": "HBOGO Asia", 
 "info": {"poster": "https://m.media-amazon.com/images/M/MV5BYTZlNDBlZDctNjQ0MS00YTczLTk5MDItZjgxNGQ5MjU5ZWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 

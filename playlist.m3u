@@ -849,7 +849,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=509
 
 #EXTINF:-1 group-logo="https://image.roku.com/developer_channels/prod/9ad50bc765f813429ac3d97a66439e16de201e37698c4b0f4db8c009a3990b2a.png"
 
-#EXTINF:-1 tvg-id="5starmax.us"  group-title="USA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png",STAR Movies HD
+#EXTINF:-1 tvg-id=""  group-title="USA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png",STAR Movies HD
 https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 
 #EXTINF:-1 tvg-id="5starmax.us"  group-title="USA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png",US 5StarMax

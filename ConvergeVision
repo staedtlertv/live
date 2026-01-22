@@ -1,1 +1,545 @@
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="A2Z.ph">
+<display-name lang="en">A2Z</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ANC.HD.ph">
+<display-name lang="en">ANC HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ANC.ph">
+<display-name lang="en">ANC</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ANIMAL.PLANET.HD.ph">
+<display-name lang="en">ANIMAL PLANET HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ANIMAL.PLANET.ph">
+<display-name lang="en">ANIMAL PLANET</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ANIMAX.ph">
+<display-name lang="en">ANIMAX</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ANIPLUS.SD.ph">
+<display-name lang="en">ANIPLUS SD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ASIAN.FOOD.NETWORK.HD.ph">
+<display-name lang="en">ASIAN FOOD NETWORK HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ASIAN.FOOD.NETWORK.ph">
+<display-name lang="en">ASIAN FOOD NETWORK</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="AXN.HD.ph">
+<display-name lang="en">AXN HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="AXN.ph">
+<display-name lang="en">AXN</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BABY.FIRST.ph">
+<display-name lang="en">BABY FIRST</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BABY.TV.ph">
+<display-name lang="en">BABY TV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BBC.WORLD.NEWS.ph">
+<display-name lang="en">BBC WORLD NEWS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BEIN.SPORTS.1.HD.ph">
+<display-name lang="en">BEIN SPORTS 1 HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BEIN.SPORTS.2.HD.ph">
+<display-name lang="en">BEIN SPORTS 2 HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BEIN.SPORTS.3.HD.ph">
+<display-name lang="en">BEIN SPORTS 3 HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BLOOMBERG.ph">
+<display-name lang="en">BLOOMBERG</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="BOOMERANG.ph">
+<display-name lang="en">BOOMERANG</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CARTOON.NETWORK.HD.ph">
+<display-name lang="en">CARTOON NETWORK HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CARTOON.NETWORK.ph">
+<display-name lang="en">CARTOON NETWORK</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CELESTIAL.CLASSIC.MOVIES.ph">
+<display-name lang="en">CELESTIAL CLASSIC MOVIES</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CHANNEL.NEWS.ASIA.ph">
+<display-name lang="en">CHANNEL NEWS ASIA</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CINEMA.ONE.ph">
+<display-name lang="en">CINEMA ONE</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CINEMA.WORLD.HD.ph">
+<display-name lang="en">CINEMA WORLD HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CINEMAX.HD.ph">
+<display-name lang="en">CINEMAX HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CINEMAX.ph">
+<display-name lang="en">CINEMAX</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CINEMO!.ph">
+<display-name lang="en">CINEMO!</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CNN.HD.ph">
+<display-name lang="en">CNN HD</display-name>
+<icon src="http://202.78.65.124/epgcms/uploads/CNN_hD.png"/>
+<icon src="http://202.78.65.124/epgcms/uploads/CNN_hD.png"/>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CNN.ph">
+<display-name lang="en">CNN</display-name>
+<icon src="http://202.78.65.124/epgcms/uploads/CNN_web.png"/>
+<icon src="http://202.78.65.124/epgcms/uploads/CNN_web.png"/>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CRIME.&.INVESTIGATION.HD.ph">
+<display-name lang="en">CRIME & INVESTIGATION HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="CRIME.&.INVESTIGATION.ph">
+<display-name lang="en">CRIME & INVESTIGATION</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DA.VINCI.KIDS.ph">
+<display-name lang="en">DA VINCI KIDS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DEUTSCHEWELLE.ph">
+<display-name lang="en">DEUTSCHEWELLE</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DISCOVERY.ASIA.ph">
+<display-name lang="en">DISCOVERY ASIA</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DISCOVERY.CHANNEL.HD.ph">
+<display-name lang="en">DISCOVERY CHANNEL HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DISCOVERY.CHANNEL.ph">
+<display-name lang="en">DISCOVERY CHANNEL</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DREAMWORKS.HD.ph">
+<display-name lang="en">DREAMWORKS HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DREAMWORKS.ph">
+<display-name lang="en">DREAMWORKS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="DZMM.TELERADYO.ph">
+<display-name lang="en">DZMM TELERADYO</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="EURONEWS.ph">
+<display-name lang="en">EURONEWS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="EUROSPORT.HD.ph">
+<display-name lang="en">EUROSPORT HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="EUROSPORT.ph">
+<display-name lang="en">EUROSPORT</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="FASHION.TV.HD.ph">
+<display-name lang="en">FASHION TV HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="FASHION.TV.ph">
+<display-name lang="en">FASHION TV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="FIGHT.SPORTS.HD.ph">
+<display-name lang="en">FIGHT SPORTS HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="FOOD.NETWORK.HD.ph">
+<display-name lang="en">FOOD NETWORK HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="FOOD.NETWORK.ph">
+<display-name lang="en">FOOD NETWORK</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="FOX.NEWS.ph">
+<display-name lang="en">FOX NEWS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="GEM.TV.SD.ph">
+<display-name lang="en">GEM TV SD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="GLOBAL.TREKKER.HD.ph">
+<display-name lang="en">GLOBAL TREKKER HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="H2.HD.ph">
+<display-name lang="en">H2 HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.FAMILY.HD.ph">
+<display-name lang="en">HBO FAMILY HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.FAMILY.ph">
+<display-name lang="en">HBO FAMILY</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.HD.ph">
+<display-name lang="en">HBO HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.HITS.HD.ph">
+<display-name lang="en">HBO HITS HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.HITS.ph">
+<display-name lang="en">HBO HITS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.SIGNATURE.HD.ph">
+<display-name lang="en">HBO SIGNATURE HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.SIGNATURE.ph">
+<display-name lang="en">HBO SIGNATURE</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HBO.ph">
+<display-name lang="en">HBO</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HGTV.HD.ph">
+<display-name lang="en">HGTV HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HGTV.ph">
+<display-name lang="en">HGTV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HISTORY.HD.ph">
+<display-name lang="en">HISTORY HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HISTORY.ph">
+<display-name lang="en">HISTORY</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="HLN.ph">
+<display-name lang="en">HLN</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="JEEPNEY.TV.ph">
+<display-name lang="en">JEEPNEY TV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="K-PLUS.ph">
+<display-name lang="en">K-PLUS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="KAPAMILYA.CHANNEL.HD.ph">
+<display-name lang="en">KAPAMILYA CHANNEL HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="KAPAMILYA.CHANNEL.ph">
+<display-name lang="en">KAPAMILYA CHANNEL</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="KBS.WORLD.ph">
+<display-name lang="en">KBS WORLD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="KIX.HD.ph">
+<display-name lang="en">KIX HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="KIX.ph">
+<display-name lang="en">KIX</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="KNOWLEDGE.CHANNEL.ph">
+<display-name lang="en">KNOWLEDGE CHANNEL</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="LIFETIME..HD.ph">
+<display-name lang="en">LIFETIME HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="LIFETIME.ph">
+<display-name lang="en">LIFETIME</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="LOVE.NATURE.HD.ph">
+<display-name lang="en">LOVE NATURE HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="METRO.CHANNEL.HD.ph">
+<display-name lang="en">METRO CHANNEL HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="METRO.CHANNEL.SD.ph">
+<display-name lang="en">METRO CHANNEL SD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="MEZZO.LIVE.HD.ph">
+<display-name lang="en">MEZZO LIVE HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="MTV.ASIA.ph">
+<display-name lang="en">MTV ASIA</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="MTV.LIVE.HD.ph">
+<display-name lang="en">MTV LIVE HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="MYX.ph">
+<display-name lang="en">MYX</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NAT.GEO.WILD.HD.ph">
+<display-name lang="en">NAT GEO WILD HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NAT.GEO.WILD.ph">
+<display-name lang="en">NAT GEO WILD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NATIONAL.GEOGRAPHIC.HD.ph">
+<display-name lang="en">NATIONAL GEOGRAPHIC HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NATIONAL.GEOGRAPHIC.ph">
+<display-name lang="en">NATIONAL GEOGRAPHIC</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NHK.PREMIUM.ph">
+<display-name lang="en">NHK PREMIUM</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NHK.WORLD.JAPAN.ph">
+<display-name lang="en">NHK WORLD JAPAN</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NICK.JR..ph">
+<display-name lang="en">NICK JR.</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="NICKELODEON.ph">
+<display-name lang="en">NICKELODEON</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ONE.SPORTS.ph">
+<display-name lang="en">ONE SPORTS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="OUTDOOR.CHANNEL.HD.ph">
+<display-name lang="en">OUTDOOR CHANNEL HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="OUTDOOR.CHANNEL.ph">
+<display-name lang="en">OUTDOOR CHANNEL</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="PBO.ph">
+<display-name lang="en">PBO</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="PREMIER.FOOTBALL.HD.ph">
+<display-name lang="en">PREMIER FOOTBALL HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="PREMIER.SPORTS.2.HD.ph">
+<display-name lang="en">PREMIER SPORTS 2 HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="PREMIER.SPORTS.HD.ph">
+<display-name lang="en">PREMIER SPORTS HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="PREMIER.SPORTS.ph">
+<display-name lang="en">PREMIER SPORTS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ROCK.ENTERTAINMENT.HD.ph">
+<display-name lang="en">ROCK ENTERTAINMENT HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ROCK.ENTERTAINMENT.ph">
+<display-name lang="en">ROCK ENTERTAINMENT</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ROCK.EXTREME.HD.ph">
+<display-name lang="en">ROCK EXTREME HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ROCK.EXTREME.ph">
+<display-name lang="en">ROCK EXTREME</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="RPTV.ph">
+<display-name lang="en">RPTV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SKYPPV.2.HD.ph">
+<display-name lang="en">SKYPPV 2 HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SKYPPV.2.ph">
+<display-name lang="en">SKYPPV 2</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SOLAR.SPORTS.ph">
+<display-name lang="en">SOLAR SPORTS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SOLARFLIX.ph">
+<display-name lang="en">SOLARFLIX</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SPOTV..2.ph">
+<display-name lang="en">SPOTV 2</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SPOTV.2.HD.ph">
+<display-name lang="en">SPOTV 2 HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SPOTV.HD.ph">
+<display-name lang="en">SPOTV HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="SPOTV.ph">
+<display-name lang="en">SPOTV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="STAR.BHARAT.ph">
+<display-name lang="en">STAR BHARAT</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TAP.EDGE.ph">
+<display-name lang="en">TAP EDGE</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TAP.MOVIES.HD.ph">
+<display-name lang="en">TAP MOVIES HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TAP.MOVIES.ph">
+<display-name lang="en">TAP MOVIES</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TAP.SPORTS.HD.ph">
+<display-name lang="en">TAP SPORTS HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TAP.TV.ph">
+<display-name lang="en">TAP TV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TECH.STORM.ph">
+<display-name lang="en">TECH STORM</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="THRILL.ph">
+<display-name lang="en">THRILL</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TLC.HD.ph">
+<display-name lang="en">TLC HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TLC.ph">
+<display-name lang="en">TLC</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TMC.(TAGALIZED.MOVIE.CHANNEL).ph">
+<display-name lang="en">TMC (TAGALIZED MOVIE CHANNEL)</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TRAVEL.CHANNEL.HD.ph">
+<display-name lang="en">TRAVEL CHANNEL HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TRAVEL.CHANNEL.ph">
+<display-name lang="en">TRAVEL CHANNEL</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TV.5.MONDE.ph">
+<display-name lang="en">TV 5 MONDE</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TV5.ph">
+<display-name lang="en">TV5</display-name>
+<icon src="http://202.78.65.124/epgcms/uploads/TV5.png"/>
+<icon src="http://202.78.65.124/epgcms/uploads/TV5.png"/>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TVBS.ASIA.ph">
+<display-name lang="en">TVBS ASIA</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TVBS.NEWS.ph">
+<display-name lang="en">TVBS NEWS</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TapAction.Flix.HD.ph">
+<display-name lang="en">TapAction Flix HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="TapAction.Flix.ph">
+<display-name lang="en">TapAction Flix</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="WARNER.TV.HD.ph">
+<display-name lang="en">WARNER TV HD</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="WARNER.TV.ph">
+<display-name lang="en">WARNER TV</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="YEY!.ph">
+<display-name lang="en">YEY!</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+<channel id="ZOO.MOO.ph">
+<display-name lang="en">ZOO MOO</display-name>
+<url>http://www.mysky.com.ph</url>
+</channel>
+</tv>
